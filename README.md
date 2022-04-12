@@ -1,0 +1,2 @@
+# Introduction-to-Java-Programming
+The project focus on solving programming exercises in a book titled Introduction to Java Programming and Data Structures by Y. Daniel Liang. The book teaches how to solve problems by writing programs. I personally like the authors approach and I love solving the exercises in the book but some are really challenging at the moment especially those with three stars.
